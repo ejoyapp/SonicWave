@@ -15,4 +15,4 @@ Engineered with a 64-bit floating-point internal processing pipeline, SonicWave 
 🌍 Global Multi-Language Launch
 Acoustic engineering is global. SonicWave's entire DSP dashboard and documentation have been completely localized into 6 major world languages (EN, ZH, KO, JA, FR, DE) to support sound designers and audiophiles around the world.
 
-👉 Discover the difference now: https://www.ejoyapp.com/zh/product/sonicwave
+👉 Discover the difference now: https://www.ejoyapp.com/product/sonicwave
