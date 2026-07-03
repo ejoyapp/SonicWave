@@ -1,0 +1,21 @@
+{
+  "version": "2.1.2",
+  "channels": {
+    "win-setup": {
+      "url": "https://github.com/ejoyapp/SonicWave/releases/download/v2.1.2/SonicWave.Setup.2.1.2.exe"
+    },
+    "win-portable": {
+      "url": ""
+    },
+    "mac-dmg": {
+      "url": ""
+    },
+    "mas": {
+      "storeUrl": "https://apps.apple.com/app/id0000000000"
+    },
+    "ms-store": {
+      "storeUrl": "https://apps.microsoft.com/detail/9NPDZ51W216V"
+    }
+  },
+  "notes": "v2.1.2"
+}
