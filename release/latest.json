@@ -14,7 +14,7 @@
       "storeUrl": "https://apps.apple.com/app/id0000000000"
     },
     "ms-store": {
-      "storeUrl": "https://apps.microsoft.com/detail/9NPDZ51W216V"
+      "storeUrl": "ms-windows-store://pdp/?productid=9NPDZ51W216V"
     }
   },
   "notes": "v2.1.2"
