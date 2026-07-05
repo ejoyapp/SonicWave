@@ -1,8 +1,8 @@
 {
-  "version": "2.1.2",
+  "version": "2.2.0",
   "channels": {
     "win-setup": {
-      "url": "https://github.com/ejoyapp/SonicWave/releases/download/v2.1.2/SonicWave.Setup.2.1.2.exe"
+      "url": "https://github.com/ejoyapp/SonicWave/releases/download/v2.2.0/SonicWave.Setup.2.2.0.exe"
     },
     "win-portable": {
       "url": ""
