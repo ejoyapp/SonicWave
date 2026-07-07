@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "channels": {
     "win-setup": {
-      "url": "https://github.com/ejoyapp/SonicWave/releases/download/v2.2.0/SonicWave.Setup.2.2.0.exe"
+      "url": "https://github.com/ejoyapp/SonicWave/releases/download/v2.2.1/SonicWave.Setup.2.2.1.exe"
     },
     "win-portable": {
       "url": ""
@@ -17,5 +17,5 @@
       "storeUrl": "ms-windows-store://pdp/?productid=9NPDZ51W216V"
     }
   },
-  "notes": "v2.1.2"
+  "notes": "v2.2.1"
 }
